@@ -1,0 +1,4818 @@
+=== HYBRID WEIGHTED RETRIEVAL AUDIT START ===
+ALPHA = 0.5
+
+
+====================================================================================================
+❓ QUERY: 1- ماهي تفاصيل القروض
+🧼 Cleaned: ماهي تفاصيل القروض
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.393908
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.356656
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.349559
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.344643
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.344634
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 2- can i open savings account in bank
+🧼 Cleaned: can i open savings account in bank
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.588504
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.562440
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.347391
+Doc ID: 39392238cde8a31d82186e178049e77db5b63529b27639aedcce5ba7316e8407
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: what is this bank called? A: Bank of GLM
+
+Embedded Text:
+Q&A:
+Q: what is this bank called? A: Bank of GLM
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.282865
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.282664
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 3- do you have a hotline
+🧼 Cleaned: do you have a hotline
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.340241
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.327527
+Doc ID: 39392238cde8a31d82186e178049e77db5b63529b27639aedcce5ba7316e8407
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: what is this bank called? A: Bank of GLM
+
+Embedded Text:
+Q&A:
+Q: what is this bank called? A: Bank of GLM
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.272686
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.219840
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.215073
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 4- هل يمكنني التحويل لدولار
+🧼 Cleaned: هل يمكنني التحويل لدولار
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.483486
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.406331
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.394047
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.393563
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.371784
+Doc ID: 904b94e2e5a5f8f2549d765e21f55cc791899d778e0c74acb3453514c8c564b9
+Title: الرؤى والتقارير
+Section Type: reports
+Language: ar
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+QA Pair: س: هل يمكنني تنزيل تقرير الإنفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تنزيل تقرير الانفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Content:
+الميزات: صناديق توفير للميزانية. تقويم تفاعلي للتذكيرات والجدولة. فلاتر متقدمة لتاريخ المعاملات. التقارير متاحة: شهريا، سنويا، حسب الفية. يمكن تنزيل التقارير كملف CSV.
+
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 5- ما هو اسم البنك
+🧼 Cleaned: ما هو اسم البنك
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.539778
+Doc ID: f35c1f2d48984e89bfe2ff72c4d3adab60e2e2364e7632ba9d1abc7438688ca5
+Title: نظرة عامة على البنك
+Section Type: overview
+Language: ar
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+QA Pair: س: ما أسم هذا البنك ؟ اسم البنك هو GLM
+
+Embedded Text:
+Q&A:
+س: ما اسم هذا البنك ؟ اسم البنك هو GLM
+
+Content:
+تاسس بنك GLM في عام 2025. يقع في سوريا. يقدم تقنيات مصرفية ذكية وحديثة. لا توجد خدمات مصرفية دولية (متاحة داخل سوريا فقط). الرقم الساخن: 011 20202. 13 فرع.
+
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.381841
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.381630
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.380829
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.379047
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 6- شو عدد الافرع
+🧼 Cleaned: شو عدد الافرع
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.326319
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.323453
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.319791
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.319174
+Doc ID: 36bbbbee7694fd727fde080ec9bef07cfce6f9e13630235c96fc7e2c6ee220e7
+Title: المدفوعات
+Section Type: payments
+Language: ar
+Keywords: دفع عبر الإنترنت,رمز QR
+QA Pair: س: كيف يمكنني الدفع باستخدام رمز QR؟ ج: امسح رمز QR باستخدام التطبيق الخاص بنا وأكد العملية.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني الدفع باستخدام رمز QR؟ ج: امسح رمز QR باستخدام التطبيق الخاص بنا واكد العملية.
+
+Content:
+يدعم البنك الدفع عبر رمز الاستجابة السريعة (QR) للمعاملات السريعة والامنة.
+
+Keywords: دفع عبر الإنترنت,رمز QR
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.315721
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 7- do you offer international banking services
+🧼 Cleaned: do you offer international banking services
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.559968
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.396680
+Doc ID: 39392238cde8a31d82186e178049e77db5b63529b27639aedcce5ba7316e8407
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: what is this bank called? A: Bank of GLM
+
+Embedded Text:
+Q&A:
+Q: what is this bank called? A: Bank of GLM
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.291026
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.281009
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.275333
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 8- يوجد خدمات مصرفيى خارج سوريا
+🧼 Cleaned: يوجد خدمات مصرفيى خارج سوريا
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.574751
+Doc ID: 91921d0a82876c91febea08534b492322287abaa5f428c39d51e34a80f475431
+Title: نظرة عامة على البنك
+Section Type: overview
+Language: ar
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+QA Pair: س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Embedded Text:
+Q&A:
+س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Content:
+تاسس بنك GLM في عام 2025. يقع في سوريا. يقدم تقنيات مصرفية ذكية وحديثة. لا توجد خدمات مصرفية دولية (متاحة داخل سوريا فقط). الرقم الساخن: 011 20202. 13 فرع.
+
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.364033
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.357864
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.356502
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.356308
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 9- when was this bank founded
+🧼 Cleaned: when was this bank founded
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.538612
+Doc ID: 39392238cde8a31d82186e178049e77db5b63529b27639aedcce5ba7316e8407
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: what is this bank called? A: Bank of GLM
+
+Embedded Text:
+Q&A:
+Q: what is this bank called? A: Bank of GLM
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.374375
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.279307
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.264687
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.259907
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 10- what currencies is supported
+🧼 Cleaned: what currencies is supported
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.522325
+Doc ID: b9a674249d6153d07354592e18a5627e1fe5b0b97de9391f907bbe13a76824ce
+Title: Currencies And Wallet System
+Section Type: accounts
+Language: en
+Keywords: currencies,wallets,exchange
+QA Pair: Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Embedded Text:
+Q&A:
+Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Content:
+Multiple currencies supported. Each currency is stored in its own wallet. Wallet-to-wallet instant exchange available.
+
+Keywords: currencies,wallets,exchange
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.276921
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.268307
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.260983
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.246406
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 11- all transactions are monitored real timee
+🧼 Cleaned: all transactions are monitored real timee
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.344717
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.343522
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.265684
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.261415
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.250529
+Doc ID: f59dfe8cbe0003fd609638e4ac1d6f9acc6c4df5aa32cee0a85122ded9edcbe7
+Title: Insights And Reporting
+Section Type: reports
+Language: en
+Keywords: jars,budgeting,filters,annual,reports
+QA Pair: Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Embedded Text:
+Q&A:
+Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Content:
+Features: Saving jars for budgeting. Interactive calendar for reminders and scheduling. Advanced filters for transaction history. Reports available: monthly, annual, category-based. Reports can be downloaded as CSV.
+
+Keywords: jars,budgeting,filters,annual,reports
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 12- how do you support security
+🧼 Cleaned: how do you support security
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.253479
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.252964
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.247421
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.246527
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.228652
+Doc ID: b9a674249d6153d07354592e18a5627e1fe5b0b97de9391f907bbe13a76824ce
+Title: Currencies And Wallet System
+Section Type: accounts
+Language: en
+Keywords: currencies,wallets,exchange
+QA Pair: Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Embedded Text:
+Q&A:
+Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Content:
+Multiple currencies supported. Each currency is stored in its own wallet. Wallet-to-wallet instant exchange available.
+
+Keywords: currencies,wallets,exchange
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 13- هل يوجد حماية من الاحتيال
+🧼 Cleaned: هل يوجد حماية من الاحتيال
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.423440
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.414043
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.397217
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.392778
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.382712
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 14- how can i unfreeze account
+🧼 Cleaned: how can i unfreeze account
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.448737
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.425905
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.409430
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.389584
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.244254
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 15- do you have emergency mode
+🧼 Cleaned: do you have emergency mode
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.535349
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.380354
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.231232
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.225377
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.213467
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 16- do you freeze card if there is fraud
+🧼 Cleaned: do you freeze card if there is fraud
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.546328
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.524947
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.260769
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.239061
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.235603
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 17- how is my account secured
+🧼 Cleaned: how is my account secured
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.555899
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.541168
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.369561
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.282314
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.281640
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 18- how can i deactivate my account
+🧼 Cleaned: how can i deactivate my account
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.510423
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.490153
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.328422
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.250964
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.228201
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 19- can i open a new checking account
+🧼 Cleaned: can i open a new checking account
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.621961
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.592466
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.294617
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.288849
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.279038
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 20- do i need to visit branch to open an account
+🧼 Cleaned: do i need to visit branch to open an account
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.624213
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.473189
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.359209
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.346105
+Doc ID: 8b3f9cf98e9dd57fe4a64436f7e50d214ec71352a3b00c61dd922e72bcf6860b
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Embedded Text:
+Q&A:
+Q: What happens after I turn on Emergency Mode? A: All your accounts and cards are frozen until you visit a branch.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.306980
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 21- is there exchange
+🧼 Cleaned: is there exchange
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.538884
+Doc ID: b9a674249d6153d07354592e18a5627e1fe5b0b97de9391f907bbe13a76824ce
+Title: Currencies And Wallet System
+Section Type: accounts
+Language: en
+Keywords: currencies,wallets,exchange
+QA Pair: Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Embedded Text:
+Q&A:
+Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Content:
+Multiple currencies supported. Each currency is stored in its own wallet. Wallet-to-wallet instant exchange available.
+
+Keywords: currencies,wallets,exchange
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.258154
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.257554
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.244967
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.243714
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 22- do you support multipule currencies
+🧼 Cleaned: do you support multipule currencies
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.482478
+Doc ID: b9a674249d6153d07354592e18a5627e1fe5b0b97de9391f907bbe13a76824ce
+Title: Currencies And Wallet System
+Section Type: accounts
+Language: en
+Keywords: currencies,wallets,exchange
+QA Pair: Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Embedded Text:
+Q&A:
+Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Content:
+Multiple currencies supported. Each currency is stored in its own wallet. Wallet-to-wallet instant exchange available.
+
+Keywords: currencies,wallets,exchange
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.291078
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.267500
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.255495
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.237594
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 23- can i open a wallet in my account
+🧼 Cleaned: can i open a wallet in my account
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.492564
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.489507
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.405513
+Doc ID: b9a674249d6153d07354592e18a5627e1fe5b0b97de9391f907bbe13a76824ce
+Title: Currencies And Wallet System
+Section Type: accounts
+Language: en
+Keywords: currencies,wallets,exchange
+QA Pair: Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Embedded Text:
+Q&A:
+Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Content:
+Multiple currencies supported. Each currency is stored in its own wallet. Wallet-to-wallet instant exchange available.
+
+Keywords: currencies,wallets,exchange
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.296901
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.271678
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 24- هل لديكم تقارير انفاق
+🧼 Cleaned: هل لديكم تقارير انفاق
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.439086
+Doc ID: 904b94e2e5a5f8f2549d765e21f55cc791899d778e0c74acb3453514c8c564b9
+Title: الرؤى والتقارير
+Section Type: reports
+Language: ar
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+QA Pair: س: هل يمكنني تنزيل تقرير الإنفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تنزيل تقرير الانفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Content:
+الميزات: صناديق توفير للميزانية. تقويم تفاعلي للتذكيرات والجدولة. فلاتر متقدمة لتاريخ المعاملات. التقارير متاحة: شهريا، سنويا، حسب الفية. يمكن تنزيل التقارير كملف CSV.
+
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.400223
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.397059
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.391205
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.389738
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 25- كيف يمكنني تنزيل تقرير الانفاق
+🧼 Cleaned: كيف يمكنني تنزيل تقرير الانفاق
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.530596
+Doc ID: 904b94e2e5a5f8f2549d765e21f55cc791899d778e0c74acb3453514c8c564b9
+Title: الرؤى والتقارير
+Section Type: reports
+Language: ar
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+QA Pair: س: هل يمكنني تنزيل تقرير الإنفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تنزيل تقرير الانفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Content:
+الميزات: صناديق توفير للميزانية. تقويم تفاعلي للتذكيرات والجدولة. فلاتر متقدمة لتاريخ المعاملات. التقارير متاحة: شهريا، سنويا، حسب الفية. يمكن تنزيل التقارير كملف CSV.
+
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.428303
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.382256
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.378447
+Doc ID: 36bbbbee7694fd727fde080ec9bef07cfce6f9e13630235c96fc7e2c6ee220e7
+Title: المدفوعات
+Section Type: payments
+Language: ar
+Keywords: دفع عبر الإنترنت,رمز QR
+QA Pair: س: كيف يمكنني الدفع باستخدام رمز QR؟ ج: امسح رمز QR باستخدام التطبيق الخاص بنا وأكد العملية.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني الدفع باستخدام رمز QR؟ ج: امسح رمز QR باستخدام التطبيق الخاص بنا واكد العملية.
+
+Content:
+يدعم البنك الدفع عبر رمز الاستجابة السريعة (QR) للمعاملات السريعة والامنة.
+
+Keywords: دفع عبر الإنترنت,رمز QR
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.369402
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 26- هل يوجد خدمات مصرفية خارج سوريا
+🧼 Cleaned: هل يوجد خدمات مصرفية خارج سوريا
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.573715
+Doc ID: 91921d0a82876c91febea08534b492322287abaa5f428c39d51e34a80f475431
+Title: نظرة عامة على البنك
+Section Type: overview
+Language: ar
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+QA Pair: س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Embedded Text:
+Q&A:
+س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Content:
+تاسس بنك GLM في عام 2025. يقع في سوريا. يقدم تقنيات مصرفية ذكية وحديثة. لا توجد خدمات مصرفية دولية (متاحة داخل سوريا فقط). الرقم الساخن: 011 20202. 13 فرع.
+
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.358352
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.357416
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.354976
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.353503
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 27- ما هو  سبب تجميد حسابي
+🧼 Cleaned: ما هو  سبب تجميد حسابي
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.498113
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.439381
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.402707
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.399321
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.381934
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 28- ليش تجمد حسابي
+🧼 Cleaned: ليش تجمد حسابي
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.452579
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.396896
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.394556
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.378904
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.374511
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 29- ما هو وضع الطوارئ
+🧼 Cleaned: ما هو وضع الطوارئ
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.392574
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.379167
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.365178
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.358896
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.354792
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 30-هل يمكنني امتلاك حسابين بنفس الوقت
+🧼 Cleaned: هل يمكنني امتلاك حسابين بنفس الوقت
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.515668
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.445259
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.421794
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.407511
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.389368
+Doc ID: 904b94e2e5a5f8f2549d765e21f55cc791899d778e0c74acb3453514c8c564b9
+Title: الرؤى والتقارير
+Section Type: reports
+Language: ar
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+QA Pair: س: هل يمكنني تنزيل تقرير الإنفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تنزيل تقرير الانفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Content:
+الميزات: صناديق توفير للميزانية. تقويم تفاعلي للتذكيرات والجدولة. فلاتر متقدمة لتاريخ المعاملات. التقارير متاحة: شهريا، سنويا، حسب الفية. يمكن تنزيل التقارير كملف CSV.
+
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 31- هل يمكنني ان افتح حساب توفيري
+🧼 Cleaned: هل يمكنني ان افتح حساب توفيري
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.579858
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.571631
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.455172
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.446393
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.419230
+Doc ID: 904b94e2e5a5f8f2549d765e21f55cc791899d778e0c74acb3453514c8c564b9
+Title: الرؤى والتقارير
+Section Type: reports
+Language: ar
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+QA Pair: س: هل يمكنني تنزيل تقرير الإنفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تنزيل تقرير الانفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Content:
+الميزات: صناديق توفير للميزانية. تقويم تفاعلي للتذكيرات والجدولة. فلاتر متقدمة لتاريخ المعاملات. التقارير متاحة: شهريا، سنويا، حسب الفية. يمكن تنزيل التقارير كملف CSV.
+
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 32- هل يمكنني فتح حساب تجاري عبر الانترنت
+🧼 Cleaned: هل يمكنني فتح حساب تجاري عبر الانترنت
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.628562
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.511068
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.462094
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.423250
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.399494
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 33-اريد التقديم  على قرض
+🧼 Cleaned: اريد التقديم  على قرض
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.558209
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.349429
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.346113
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.344110
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.330866
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 34- كيف اقدم على قرض
+🧼 Cleaned: كيف اقدم على قرض
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.569010
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.379324
+Doc ID: 36bbbbee7694fd727fde080ec9bef07cfce6f9e13630235c96fc7e2c6ee220e7
+Title: المدفوعات
+Section Type: payments
+Language: ar
+Keywords: دفع عبر الإنترنت,رمز QR
+QA Pair: س: كيف يمكنني الدفع باستخدام رمز QR؟ ج: امسح رمز QR باستخدام التطبيق الخاص بنا وأكد العملية.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني الدفع باستخدام رمز QR؟ ج: امسح رمز QR باستخدام التطبيق الخاص بنا واكد العملية.
+
+Content:
+يدعم البنك الدفع عبر رمز الاستجابة السريعة (QR) للمعاملات السريعة والامنة.
+
+Keywords: دفع عبر الإنترنت,رمز QR
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.357174
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.354056
+Doc ID: 91921d0a82876c91febea08534b492322287abaa5f428c39d51e34a80f475431
+Title: نظرة عامة على البنك
+Section Type: overview
+Language: ar
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+QA Pair: س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Embedded Text:
+Q&A:
+س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Content:
+تاسس بنك GLM في عام 2025. يقع في سوريا. يقدم تقنيات مصرفية ذكية وحديثة. لا توجد خدمات مصرفية دولية (متاحة داخل سوريا فقط). الرقم الساخن: 011 20202. 13 فرع.
+
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.352682
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 35- tell me about loans
+🧼 Cleaned: tell me about loans
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.404731
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.241927
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.240326
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.228363
+Doc ID: f59dfe8cbe0003fd609638e4ac1d6f9acc6c4df5aa32cee0a85122ded9edcbe7
+Title: Insights And Reporting
+Section Type: reports
+Language: en
+Keywords: jars,budgeting,filters,annual,reports
+QA Pair: Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Embedded Text:
+Q&A:
+Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Content:
+Features: Saving jars for budgeting. Interactive calendar for reminders and scheduling. Advanced filters for transaction history. Reports available: monthly, annual, category-based. Reports can be downloaded as CSV.
+
+Keywords: jars,budgeting,filters,annual,reports
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.223905
+Doc ID: 39392238cde8a31d82186e178049e77db5b63529b27639aedcce5ba7316e8407
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: what is this bank called? A: Bank of GLM
+
+Embedded Text:
+Q&A:
+Q: what is this bank called? A: Bank of GLM
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 36- do you have loans
+🧼 Cleaned: do you have loans
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.405697
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.267521
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.264824
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.255814
+Doc ID: f59dfe8cbe0003fd609638e4ac1d6f9acc6c4df5aa32cee0a85122ded9edcbe7
+Title: Insights And Reporting
+Section Type: reports
+Language: en
+Keywords: jars,budgeting,filters,annual,reports
+QA Pair: Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Embedded Text:
+Q&A:
+Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Content:
+Features: Saving jars for budgeting. Interactive calendar for reminders and scheduling. Advanced filters for transaction history. Reports available: monthly, annual, category-based. Reports can be downloaded as CSV.
+
+Keywords: jars,budgeting,filters,annual,reports
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.238129
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 37- can i apply for a loan
+🧼 Cleaned: can i apply for a loan
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.679903
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.279269
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.276985
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.252073
+Doc ID: f59dfe8cbe0003fd609638e4ac1d6f9acc6c4df5aa32cee0a85122ded9edcbe7
+Title: Insights And Reporting
+Section Type: reports
+Language: en
+Keywords: jars,budgeting,filters,annual,reports
+QA Pair: Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Embedded Text:
+Q&A:
+Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Content:
+Features: Saving jars for budgeting. Interactive calendar for reminders and scheduling. Advanced filters for transaction history. Reports available: monthly, annual, category-based. Reports can be downloaded as CSV.
+
+Keywords: jars,budgeting,filters,annual,reports
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.243778
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 38- do you offer loans
+🧼 Cleaned: do you offer loans
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.423901
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.288256
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.259564
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.256433
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.235162
+Doc ID: f59dfe8cbe0003fd609638e4ac1d6f9acc6c4df5aa32cee0a85122ded9edcbe7
+Title: Insights And Reporting
+Section Type: reports
+Language: en
+Keywords: jars,budgeting,filters,annual,reports
+QA Pair: Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Embedded Text:
+Q&A:
+Q: Can I download my spending report? A: Yes you can download it as a CSV file from the reporting section.
+
+Content:
+Features: Saving jars for budgeting. Interactive calendar for reminders and scheduling. Advanced filters for transaction history. Reports available: monthly, annual, category-based. Reports can be downloaded as CSV.
+
+Keywords: jars,budgeting,filters,annual,reports
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 39 i want a loan
+🧼 Cleaned: 39 i want a loan
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.645140
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.257527
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.255173
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.242680
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.236740
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 40- can i change my account info
+🧼 Cleaned: can i change my account info
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.422014
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.417041
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.416130
+Doc ID: b9cd516756f69fce36ceffb070f1a074eab07dc519c941192cbbe61c69e7870e
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Embedded Text:
+Q&A:
+Q: Can I have both a savings and a checking account? A: Yes, you can open multiple account types.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.273329
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.227283
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 41- can i change my address from the website
+🧼 Cleaned: can i change my address from the website
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.403587
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.327396
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.231154
+Doc ID: 6be75354bb1c3a3c0384b9253278cc2b13edf1dc45259d6c89a24de84e05c7cb
+Title: Security And Fraud Protection
+Section Type: security
+Language: en
+Keywords: fraud detection,freeze,emergency,unfreeze
+QA Pair: Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Embedded Text:
+Q&A:
+Q: Why was my account suddenly frozen? A: It may have been flagged by the system as suspicious and requires identity verification.
+
+Content:
+Fraud Detection: AI systems monitor all transactions in real time. Additional manual checks validate suspicious cases. Abnormal activity triggers an automatic freeze. Emergency Mode: Can be manually activated via the website. Immediately freezes all accounts and cards. Can only be deactivated by visiting a branch.
+
+Keywords: fraud detection,freeze,emergency,unfreeze
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.230281
+Doc ID: 3ce35d2f7b89959e34692b83e5635cdd421b30c827b093d1a2c22213ca729a70
+Title: Account Types
+Section Type: accounts
+Language: en
+Keywords: account type
+QA Pair: Q: Can I open a new account online? A: No. You must visit a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I open a new account online? A: No. You must visit a branch.
+
+Content:
+Savings Account: Built for managing savings. Supports multi-currency wallets and reporting tools. Checking Account: Designed for everyday expenses and payments. Business Account: Supports business operations and financial management. Customers may own multiple accounts. Creating a new account requires a branch visit.
+
+Keywords: account type
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.229341
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 42- can i change my number
+🧼 Cleaned: can i change my number
+🌐 Language: en
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.502019
+Doc ID: fea234249577685edebab11f2857a31d2e58f74baac8c3fe8481f9fd0f120a2a
+Title: Authentication And Personal Information
+Section Type: authentication
+Language: en
+Keywords: personal,authentication
+QA Pair: Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Embedded Text:
+Q&A:
+Q: Can I change my phone number online? A: No. All changes must be done at a branch.
+
+Content:
+Authentication Methods: Email, PIN, Password. Updating Personal Details: All personal information updates require a branch visit.
+
+Keywords: personal,authentication
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.219526
+Doc ID: fe8ac18a01eecd2ca407a8a4f7885e48b8709979aed3ad8895a21b7f0382b8fe
+Title: Payments
+Section Type: payments
+Language: en
+Keywords: online payment,qr code
+QA Pair: Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Embedded Text:
+Q&A:
+Q: How do I pay using QR code? A: Scan the QR code using our app and confirm the transaction.
+
+Content:
+Supports QR Code payments for fast and secure transactions.
+
+Keywords: online payment,qr code
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.205579
+Doc ID: b9a674249d6153d07354592e18a5627e1fe5b0b97de9391f907bbe13a76824ce
+Title: Currencies And Wallet System
+Section Type: accounts
+Language: en
+Keywords: currencies,wallets,exchange
+QA Pair: Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Embedded Text:
+Q&A:
+Q: Can I instantly convert USD to SYP? A: Yes instant exchange is supported through your wallets.
+
+Content:
+Multiple currencies supported. Each currency is stored in its own wallet. Wallet-to-wallet instant exchange available.
+
+Keywords: currencies,wallets,exchange
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.204305
+Doc ID: 23722f9c8e305ceb62f5d3c4c6f0b5e071c6c53797a322e21773d1f8d4e0dd34
+Title: Bank Overview
+Section Type: overview
+Language: en
+Keywords: overview,founded,year,name,hotline,international,location,syria
+QA Pair: Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Embedded Text:
+Q&A:
+Q: Do you offer services outside Syria? A: No. All banking services are available only within Syria.
+
+Content:
+Bank of GLM Founded in 2025. Based in Syria. Offers modern smart-banking technologies. No international banking services (Syria only). Hotline: 011 20202. 13 branches.
+
+Keywords: overview,founded,year,name,hotline,international,location,syria
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.202555
+Doc ID: 257fb3233597db184e8499f5d69c27aae4404e5139c299626a5c6e7017a4a5d7
+Title: Loans
+Section Type: loans
+Language: en
+Keywords: loan
+QA Pair: Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Embedded Text:
+Q&A:
+Q: How do I apply for a loan? A: Fill out the loan form on our website and submit it.
+
+Content:
+We offer several types of loans. Application forms available on the website. Customers must submit through the online form.
+
+Keywords: loan
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 43- هل يمكنني تغيير العنوان
+🧼 Cleaned: هل يمكنني تغيير العنوان
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.528990
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.408983
+Doc ID: 953c06bafa39e5199231950aa0d541aea9b2279a30fd6895c2482af49b3305eb
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح أنواع متعددة من الحسابات.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني امتلاك حساب توفير وحساب جاري؟ ج: نعم، يمكنك فتح انواع متعددة من الحسابات.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.403458
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.403379
+Doc ID: 443b2e99bbbf911c457fae4f14d381845564aba00959d5c0bb0fb8f270e93230
+Title: أنواع الحسابات
+Section Type: accounts
+Language: ar
+Keywords: نوع الحساب
+QA Pair: س: هل يمكنني فتح حساب جديد عبر الإنترنت؟ ج: لا. يجب زيارة الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني فتح حساب جديد عبر الانترنت؟ ج: لا. يجب زيارة الفرع.
+
+Content:
+حساب التوفير: مصمم لادارة المدخرات. يدعم المحافظ متعددة العملات وادوات التقارير. حساب المصروفات: مصمم للمصروفات اليومية والمدفوعات. الحساب التجاري: يدعم العمليات التجارية والادارة المالية. يمكن للعملاء امتلاك عدة حسابات. انشاء حساب جديد يتطلب زيارة الفرع.
+
+Keywords: نوع الحساب
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.398541
+Doc ID: 904b94e2e5a5f8f2549d765e21f55cc791899d778e0c74acb3453514c8c564b9
+Title: الرؤى والتقارير
+Section Type: reports
+Language: ar
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+QA Pair: س: هل يمكنني تنزيل تقرير الإنفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تنزيل تقرير الانفاق؟ ج: نعم، يمكنك تنزيله كملف CSV من قسم التقارير.
+
+Content:
+الميزات: صناديق توفير للميزانية. تقويم تفاعلي للتذكيرات والجدولة. فلاتر متقدمة لتاريخ المعاملات. التقارير متاحة: شهريا، سنويا، حسب الفية. يمكن تنزيل التقارير كملف CSV.
+
+Keywords: صناديق,ميزانية,فلاتر,سنوي,تقارير,الانفاق
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 44- فيني غير رقمي
+🧼 Cleaned: فيني غير رقمي
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.361357
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.360574
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.347878
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.347071
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.342152
+Doc ID: 91921d0a82876c91febea08534b492322287abaa5f428c39d51e34a80f475431
+Title: نظرة عامة على البنك
+Section Type: overview
+Language: ar
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+QA Pair: س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Embedded Text:
+Q&A:
+س: هل تقدمون خدمات خارج سوريا؟ ج: لا. جميع الخدمات المصرفية متاحة داخل سوريا فقط.
+
+Content:
+تاسس بنك GLM في عام 2025. يقع في سوريا. يقدم تقنيات مصرفية ذكية وحديثة. لا توجد خدمات مصرفية دولية (متاحة داخل سوريا فقط). الرقم الساخن: 011 20202. 13 فرع.
+
+Keywords: نظرة عامة,تأسيس,دولية,هاتف,خدمات,موقع,اسم,بنك,سوريا,هاتف,سورية,دولي
+
+----------------------------------------
+
+
+====================================================================================================
+❓ QUERY: 45- اريد تغيير بعض المعلومات الشخصية
+🧼 Cleaned: اريد تغيير بعض المعلومات الشخصية
+🌐 Language: ar
+====================================================================================================
+
+--- Document 1 ---
+Score (Weighted): 0.495120
+Doc ID: 45e7c59dfdbd4db8cb2cb9a44723ee2c0a19e04e8d60228552fb1cd4825e0d98
+Title: المصادقة والمعلومات الشخصية
+Section Type: authentication
+Language: ar
+Keywords: مصادقة,شخصية
+QA Pair: س: هل يمكنني تغيير رقم هاتفي عبر الإنترنت؟ ج: لا. يجب إجراء جميع التغييرات في الفرع.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تغيير رقم هاتفي عبر الانترنت؟ ج: لا. يجب اجراء جميع التغييرات في الفرع.
+
+Content:
+طرق المصادقة: البريد الالكتروني، الرقم السري، كلمة المرور. تحديث المعلومات الشخصية: جميع تحديثات المعلومات الشخصية تتطلب زيارة الفرع.
+
+Keywords: مصادقة,شخصية
+
+----------------------------------------
+
+--- Document 2 ---
+Score (Weighted): 0.319551
+Doc ID: fc1f2d990664120f5769ba02aebc27a8b131c2775ee1d66dcd17d581b16dd44d
+Title: القروض
+Section Type: loans
+Language: ar
+Keywords: قرض
+QA Pair: س: كيف يمكنني التقديم للحصول على قرض؟ ج: املأ نموذج القرض على الموقع الإلكتروني وقدم الطلب.
+
+Embedded Text:
+Q&A:
+س: كيف يمكنني التقديم للحصول علي قرض؟ ج: املا نموذج القرض علي الموقع الالكتروني وقدم الطلب.
+
+Content:
+يقدم البنك عدة انواع من القروض. نماذج الطلبات متاحة علي الموقع الالكتروني. يجب علي العملاء تقديم الطلب عبر النموذج الالكتروني.
+
+Keywords: قرض
+
+----------------------------------------
+
+--- Document 3 ---
+Score (Weighted): 0.312449
+Doc ID: 30c29c1aaa24f217ed73b9e5848ec360eb5c066b15ee7f082841e49f00796bc3
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: لماذا تم تجميد حسابي فجأة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Embedded Text:
+Q&A:
+س: لماذا تم تجميد حسابي فجاة؟ ج: قد تم وضع علامة عليه من قبل النظام كحالة مشبوهة ويتطلب التحقق من الهوية.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 4 ---
+Score (Weighted): 0.311630
+Doc ID: d5ba7fb47691227de6d3f3e18567e7223bf975bb352b773ee79bb1c12d342d96
+Title: الأمان وحماية من الاحتيال
+Section Type: security
+Language: ar
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+QA Pair: س: ماذا يحدث بعد تفعيل الوضع الطارئ؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتى زيارة فرع.
+
+Embedded Text:
+Q&A:
+س: ماذا يحدث بعد تفعيل الوضع الطاري؟ ج: يتم تجميد جميع حساباتك وبطاقاتك حتي زيارة فرع.
+
+Content:
+كشف الاحتيال: تراقب انظمة الذكاء الاصطناعي جميع المعاملات في الوقت الفعلي. تتحقق الفحوصات اليدوية الاضافية من الحالات المشبوهة. النشاط غير الطبيعي يودي الي تجميد تلقايي. الوضع الطاري: يمكن تفعيله يدويا عبر الموقع. يقوم فورا بتجميد جميع الحسابات والبطاقات. يمكن الغاء التفعيل فقط عند زيارة فرع.
+
+Keywords: كشف احتيال,تجميد,وضع طارئ,إلغاء التجميد
+
+----------------------------------------
+
+--- Document 5 ---
+Score (Weighted): 0.307631
+Doc ID: 36ebadd7fa82cd5cd0c91f4ad2ad020ebbea9fb0e3f91b2a2114a726ad78a767
+Title: العملات ونظام المحافظ
+Section Type: accounts
+Language: ar
+Keywords: عملات,محافظ,تحويل
+QA Pair: س: هل يمكنني تحويل الدولار الأمريكي إلى الليرة السورية فورًا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Embedded Text:
+Q&A:
+س: هل يمكنني تحويل الدولار الامريكي الي الليرة السورية فورا؟ ج: نعم، التحويل الفوري مدعوم عبر المحافظ.
+
+Content:
+يدعم البنك عدة عملات. يتم تخزين كل عملة في محفظتها الخاصة. يمكن التحويل الفوري بين المحافظ.
+
+Keywords: عملات,محافظ,تحويل
+
+----------------------------------------
+

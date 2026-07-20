@@ -1,0 +1,52 @@
+[
+    {
+        "name": "get_jars",
+        "description": "Retrieve all savings jars linked to the user's account, including current balance of the jar.",
+        "parameters": {}
+    },
+    {
+        "name": "create_jar",
+        "description": "Create a new savings jar that allows users to set financial goals.",
+        "parameters": {
+            "goal_name": {"type": "string"},
+            "currency": {"type": "string"},
+            "target_amount": {"type": "number"},
+            "description": {"type": "string"}
+        },
+        "required": ["goal_name", "currency", "target_amount"],
+        "ENUM_Arguments": {
+            "currency": "SYP,USD,TRY,EUR,KWD,AED,SAR"
+        }
+    },
+    {
+        "name": "update_jar",
+        "description": "Update the details of an existing savings jar, such as the target amount, or description.",
+        "parameters": {
+            "target_amount": {"type": "number"},
+            "description": {"type": "string"},
+            "goal_name": {"type":"string"}
+        }
+    },
+    {
+        "name": "delete_jar",
+        "description": "Delete an existing savings jar and remove it from the user's account.",
+        "parameters": {}
+    },
+    {
+        "name": "transfer_to_jar",
+        "description": "Transfer money from the user's main account into a selected savings jar.",
+        "parameters": {
+            "amount": {"type": "number"},
+            "currency": {"type": "string"}
+        },
+        "required": ["amount", "currency"],
+        "ENUM_Arguments": {
+            "currency": "SYP,USD,TRY,EUR,KWD,AED,SAR"
+        }
+    },
+    {
+        "name": "empty_jar",
+        "description": "Withdraw all money from a savings jar and return them to the associated bank account.",
+        "parameters": {}
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Apply_loan",
+        "description": "request a new loan and identify the number of months, puprpose of loan and the loan type",
+        "parameters": {
+            "amount": {"type": "number"},
+            "term_months": {"type": "number"},
+            "purpose": {"type": "string"},
+            "loan_type": {"type": "string"}
+        },
+        "required": ["amount", "term_months", "purpose", "loan_type"],
+        "ENUM_Arguments": {
+            "loan_type": "personal,small business,large business,mortgage,study"
+        }
+    },
+    {
+        "name": "Get_all_loans_user",
+        "description": "Retrieve all loans applied by the user",
+        "parameters": {}
+    },
+    {
+        "name": "get_repayments",
+        "description": "Display loan details, what is left of payment each month, what is paied every month",
+        "parameters": {}
+    },
+    {
+        "name": "repay",
+        "description": "Perform repayment",
+        "parameters": {
+            "amount": {"type": "number"}
+        },
+        "required": ["amount"]
+    }
+]

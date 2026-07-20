@@ -1,0 +1,26 @@
+[
+    {
+        "name": "external_transaction",
+        "description": "Transfer money from the user's account to another account, with optional metadata.",
+        "parameters": {
+            "to_account_number": {"type": "string"},
+            "amount": {"type": "number"},
+            "currency": {"type": "string"},
+            "category": {"type": "string"},
+            "note": {"type": "string"},
+            "pin": {"type": "string"}
+        },
+        "required": ["to_account_number", "amount", "currency", "category"],
+        "ENUM_Arguments": {
+            "currency": "SYP,USD,TRY,EUR,KWD,AED,SAR",
+            "category": "Food,Education,Health,Bills,Transportation,Rent,Travel,Clothes,Subscriptions,Entertainment,Other"
+        }
+    },
+    {
+        "name": "get_transactions",
+        "description": "Retrieve a  K list of transactions associated with the user's account, including payment and transfer activity. if K=3 then last 3 transactions, 0 for all transactions",
+        "parameters": {
+            "K_latest": {"type": "number"}
+        }
+    }
+]

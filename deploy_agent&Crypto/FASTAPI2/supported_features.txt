@@ -1,0 +1,9 @@
+- ACCOUNT (includes : checkBalance,get list of all accounts,change account name)
+- TRANSFER(includes :Transfer money from the user's account,Retrieve
+transactions associated with the user's account  )
+- JARS( check existing user's jars, create a new jar,edit an existing jar info ,transfer money to a jar ,empty a jar )
+- CALENDAR ( check calendar payments, create a new calendar payments ,edit an exisiting calendar payment,delete an exisiting calendar payment)
+- EXCHANGE( perform an exchange from a currency to a currency )
+SUPPORTED GENERAL INTENTS
+- General_Exchange(get exchange rate for a currency pair , get all exchange rates for supported currencies,get all exchange rates for syrian pound)
+- OTHER

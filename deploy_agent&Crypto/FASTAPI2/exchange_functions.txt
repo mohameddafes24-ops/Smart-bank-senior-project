@@ -1,0 +1,16 @@
+[
+    {
+        "name": "exchange_currency",
+        "description": "Perform a currency exchange within the user's account using current exchange rates.",
+        "parameters": {
+            "from_currency": {"type": "string"},
+            "to_currency": {"type": "string"},
+            "amount": {"type": "number"}
+        },
+        "required": ["from_currency", "to_currency", "amount"],
+        "ENUM_Arguments": {
+            "from_currency": "SYP,USD,TRY,EUR,KWD,AED,SAR",
+            "to_currency": "SYP,USD,TRY,EUR,KWD,AED,SAR"
+        }
+    }
+]

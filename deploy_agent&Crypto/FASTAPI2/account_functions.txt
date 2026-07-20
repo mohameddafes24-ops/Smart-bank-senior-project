@@ -1,0 +1,28 @@
+[
+    {
+        "name": "show_account",
+        "description": "Retrieve and display full information about the user's selected bank account, including balance, account type, and other account identifiers.",
+        "parameters": {}
+    },
+    {
+        "name": "list_accounts",
+        "description": "List all bank accounts associated with the authenticated user, providing an overview of all accounts.",
+        "parameters": {}
+    },
+    {
+        "name": "update_account_name",
+        "description": "Update the display name of an existing bank account to help users identify their accounts.",
+        "parameters": {
+            "name": {
+                "type": "string",
+                "description": "New account name"
+            }
+        },
+        "required": ["name"]
+    },
+    {
+        "name": "freeze_account",
+        "description": "Freeze user's account in case a suspection of abnormal activity",
+        "parameters": {}
+    }
+]

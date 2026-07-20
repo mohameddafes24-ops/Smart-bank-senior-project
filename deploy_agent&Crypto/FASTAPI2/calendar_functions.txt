@@ -1,0 +1,47 @@
+[
+    {
+        "name": "get_calendar_payments",
+        "description": "Retrieve all scheduled payments and upcoming financial commitments for the user's account.",
+        "parameters": {}
+    },
+    {
+        "name": "create_calendar_payment",
+        "description": "Schedule a new recurring or one-time payment to be executed  on a specified date.",
+        "parameters": {
+            "title": {"type": "string"},
+            "type": {"type": "string"},
+            "amount": {"type": "number"},
+            "currency": {"type": "string"},
+            "repeat": {"type": "string"},
+            "start": {"type": "date"},
+            "end": {"type": "date"}
+        },
+        "required": ["title", "amount", "start"],
+        "ENUM_Arguments": {
+            "currency": "SYP,USD,TRY,EUR,KWD,AED,SAR",
+            "repeat": "Daily,Weekly,Monthly,Yearly,None",
+            "type": "Rent,Bill,Loan,Subscription,Other"
+        }
+    },
+    {
+        "name": "update_calendar_payment",
+        "description": "Modify the details of an existing scheduled payment, such as amount, date, or status.",
+        "parameters": {
+            "title": {"type": "string"},
+            "type": {"type": "string"},
+            "amount": {"type": "number"},
+            "currency": {"type": "string"},
+            "repeat": {"type": "string"}
+        },
+        "ENUM_Arguments": {
+            "currency": "SYP,USD,TRY,EUR,KWD,AED,SAR",
+            "repeat": "Daily,Weekly,Monthly,Yearly,None",
+            "type": "Rent,Bill,Loan,Subscription,Other"
+        }
+    },
+    {
+        "name": "delete_calendar_payment",
+        "description": "Cancel and remove a scheduled payment from the user's calendar.",
+        "parameters": {}
+    }
+]

@@ -1,0 +1,3 @@
+0 : intent classifier
+1 : function selector 
+2 : resolver
