@@ -40,10 +40,10 @@ https://github.com/user-attachments/assets/b1e43166-23ec-4344-b428-def4af8d3e50
 
 Informational requests are routed to the retrieval pipeline. The system retrieves relevant bank documents and uses the RAG agent to generate a grounded answer.
 
-[![Informational-request sequence diagram](docs/assets/diagrams/informational-request-sequence.png)](docs/assets/diagrams/INFORMATIONAL_SCENARIO.PNG)
+![Informational-request sequence diagram](docs/assets/diagrams/INFORMATIONAL_SCENARIO.PNG)
 
 ### Action requests
 
 Action requests are routed to the function-selection pipeline. The system identifies the required operation, extracts available arguments, collects missing information, and prepares the action for confirmation.
 
-[![Action-request sequence diagram](docs/assets/diagrams/action-request-sequence.png)](docs/assets/diagrams/ACTION_SCENARIO.PNG)
+![Action-request sequence diagram](docs/assets/diagrams/ACTION_SCENARIO.PNG)
