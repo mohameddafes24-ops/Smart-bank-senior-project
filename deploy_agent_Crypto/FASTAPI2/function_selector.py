@@ -1,9 +1,15 @@
 import os
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
-
-model=OllamaLLM(model="qwen3:1.7b")
-
+from config import OLLAMA_BASE_URL, OLLAMA_LLM_MODEL
+MODEL_NAME = OLLAMA_LLM_MODEL
+llm = OllamaLLM(
+    model=MODEL_NAME,
+    base_url=OLLAMA_BASE_URL,
+    temperature=0.0,
+    num_ctx=2048,
+    stream=False,
+)
 template = """You are a function selector.
 
 You receive:
@@ -38,17 +44,17 @@ Output rules:
 - If chosen_function is null, provided_arguments must be empty and missing_arguments must be [].
 
 Output format:
-{
+{{
   "chosen_function": string | null,
-  "provided_arguments": { "param": value },
+  "provided_arguments": {{ "param": value }},
   "missing_arguments": [ "param" ]
-}
+}}
 
 """
 
 prompt=ChatPromptTemplate.from_template(template)
 
-chain=prompt | model
+chain=prompt | llm
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 
@@ -57,9 +63,10 @@ from langchain_core.prompts import ChatPromptTemplate
 #prompt=ChatPromptTemplate.from_template(template)
 
 #chain=prompt | model
-MODEL_NAME = "qwen3:1.7b"
+MODEL_NAME = OLLAMA_LLM_MODEL
 llm = OllamaLLM(
     model=MODEL_NAME,
+    base_url=OLLAMA_BASE_URL,
     temperature=0.0,
     num_ctx=2048,
     stream=False,

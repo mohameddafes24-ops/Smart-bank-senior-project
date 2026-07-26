@@ -2,10 +2,13 @@ from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import PromptTemplate
 import json
 
-MODEL_NAME = "qwen3:1.7b"
+from config import OLLAMA_BASE_URL, OLLAMA_LLM_MODEL
+
+MODEL_NAME = OLLAMA_LLM_MODEL
 
 llm = OllamaLLM(
     model=MODEL_NAME,
+    base_url=OLLAMA_BASE_URL,
     temperature=0.0,
     num_ctx=2048,
     stream=False,

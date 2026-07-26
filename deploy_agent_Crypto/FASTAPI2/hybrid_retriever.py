@@ -3,13 +3,13 @@ from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
+from config import OLLAMA_BASE_URL, OLLAMA_EMBEDDING_MODEL
 # ---------------------------------------------------------
 # FIXED CONFIG (CONSTANTS)
 # ---------------------------------------------------------
 DB_PATH = "./qa_keywords_doc_normalized"
 COLLECTION_NAME = "bank_info"
-EMBEDDING_MODEL = "mxbai-embed-large:335m"
+EMBEDDING_MODEL = OLLAMA_EMBEDDING_MODEL
 
 ALPHA = 0.5
 TOP_K = 5
@@ -31,7 +31,7 @@ from collections import defaultdict
 
 class HybridWeightedRetriever:
     def __init__(self):
-        self.embeddings = OllamaEmbeddings(model=EMBEDDING_MODEL)
+        self.embeddings = OllamaEmbeddings(model=EMBEDDING_MODEL,base_url=OLLAMA_BASE_URL,)
         self.vector_store = Chroma(
             collection_name=COLLECTION_NAME,
             persist_directory=DB_PATH,

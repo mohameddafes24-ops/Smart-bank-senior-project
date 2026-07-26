@@ -2,7 +2,18 @@ from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 from system_init import get_function_by_name
 
-model=OllamaLLM(model="qwen3:1.7b")
+
+from config import OLLAMA_BASE_URL, OLLAMA_LLM_MODEL
+
+MODEL_NAME = OLLAMA_LLM_MODEL
+
+llm = OllamaLLM(
+    model=MODEL_NAME,
+    base_url=OLLAMA_BASE_URL,
+    temperature=0.0,
+    num_ctx=2048,
+    stream=False,
+)
 
 template = """You are a Global Resolver for a banking system with correction support.
 
@@ -67,21 +78,9 @@ Output:
 
 prompt=ChatPromptTemplate.from_template(template)
 
-chain=prompt | model
+chain=prompt | llm
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
-MODEL_NAME = "qwen3:1.7b"
-llm = OllamaLLM(
-    model=MODEL_NAME,
-    temperature=0.0,
-    num_ctx=2048,
-    stream=False,
-)
-#model=OllamaLLM(model="qwen3:1.7b")
-
-#prompt=ChatPromptTemplate.from_template(template)
-
-#chain=prompt | model
 
 s={
   "chosen_function": "transfer_to_jar",

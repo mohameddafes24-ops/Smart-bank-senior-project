@@ -2,7 +2,7 @@
 
 import json
 from typing import Tuple
-from Classifier_agnet import IntentClassifierCALL
+from classifier_agent import IntentClassifierCALL
 from function_selector import functionSelectorCALL
 from Global_Resolver import ResolverCall
 from Rephraser import RephraserCALL

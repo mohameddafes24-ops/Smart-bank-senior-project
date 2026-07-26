@@ -1,15 +1,16 @@
 from langchain_ollama.llms import OllamaLLM
 from typing import Dict
+from config import OLLAMA_BASE_URL, OLLAMA_LLM_MODEL
 
-MODEL_NAME = "qwen3:1.7b"
+MODEL_NAME = OLLAMA_LLM_MODEL
 
 llm = OllamaLLM(
     model=MODEL_NAME,
+    base_url=OLLAMA_BASE_URL,
     temperature=0.0,
     num_ctx=2048,
     stream=False,
 )
-
 # -----------------------------
 # PROMPT PARTS (UNCHANGED LOGIC)
 # -----------------------------

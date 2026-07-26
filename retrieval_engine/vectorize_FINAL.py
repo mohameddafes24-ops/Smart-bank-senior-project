@@ -6,7 +6,7 @@ from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 
-from Document_Normalizer import normalize_document
+from document_normalizer import normalize_document
 
 # -------------------------
 # 1️⃣ Load CSV

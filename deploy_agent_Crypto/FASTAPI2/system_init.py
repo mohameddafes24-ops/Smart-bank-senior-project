@@ -1,6 +1,6 @@
 import json
 import os
-from Classifier_agnet import IntentClassifierINIT
+from classifier_agent import IntentClassifierINIT
 from function_selector import FunctionSelectorINIT
 from retriever import retrievalINIT
 
